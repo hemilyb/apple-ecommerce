@@ -15,11 +15,11 @@ export default function Home() {
       <h1 className="font-bold text-4xl sm:text-6xl mb-4 text-[#b3aa98]">iPhone 15 Pro</h1>
       <span className="text-[#b3aa98] text-5xl">Big and bigger</span>
       <p className="mt-4 font-light">Explore os detalhes.</p>
-      <div className="flex mt-8 text-xl gap-6 justify-center">
-        <button className="transition-colors duration-300 bg-[#b3aa98] text-white py-2 px-6 rounded-full hover:bg-white hover:text-[#b3aa98]">
+      <div className="flex mt-8 text-xl gap-4 justify-center">
+        <button className="transition-colors duration-300 bg-[#b3aa98] text-white py-2 px-4 rounded-full hover:bg-white hover:text-[#b3aa98]">
           <Link href={"/products/19"}>Comprar</Link>
         </button>
-        <button className="transition-colors duration-300 bg-[#b3aa98] text-white py-2 px-6 rounded-full hover:bg-white hover:text-[#b3aa98]">
+        <button className="transition-colors duration-300 bg-[#b3aa98] text-white py-2 px-4 rounded-full hover:bg-white hover:text-[#b3aa98]">
         <Link href={"/products"}>Mais produtos</Link>   
         </button>
       </div>
