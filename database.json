@@ -1,0 +1,219 @@
+{
+  "macs": [
+    {
+      "id": 1,
+      "name": "MacBook Air M2",
+      "description": "A potência do ar reimaginada. O chip M2 da Apple leva o MacBook Air a novos patamares com desempenho ainda mais rápido, gráficos impressionantes e uma bateria que dura o dia todo. Tudo isso em um design leve e silencioso.",
+      "price": 14000,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba13-midnight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1708367688034",
+      "inStock": 43
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro M2",
+      "description": "Desempenho Pro reimaginado. O novo MacBook Pro com chip M2 leva o desempenho para um novo nível com velocidades ultrarrápidas, gráficos avançados e uma bateria de longa duração. Perfeito para profissionais.",
+      "price": 28000,
+      "imageUrl": "https://www.macconsultshop.de/images/thumbnail/produkte/medium/MTL73D_A_pic1.jpg",
+      "inStock": 38
+    },
+    {
+      "id": 4,
+      "name": "Mac mini M2",
+      "description": "Pequeno por fora, gigante por dentro. O Mac mini com chip M2 oferece desempenho poderoso em um design compacto e versátil. Ideal para qualquer configuração de trabalho ou entretenimento.",
+      "price": 9000,
+      "imageUrl": "https://acdn.mitiendanube.com/stores/003/573/118/products/mac-mini-202301-gallery-3-fc28020f7787dc800d17145157018140-1024-1024.jpeg",
+      "inStock": 50
+    },
+    {
+      "id": 18,
+      "name": "Mac Studio M2 Ultra",
+      "description": "O Mac Studio redefine a performance com o poder do chip M2 Ultra. Projetado para profissionais que demandam o máximo de desempenho, ele é perfeito para edição de vídeo, desenvolvimento de software e criação de gráficos complexos.",
+      "price": 24000,
+      "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v9218516215272816283/products/224444.01-apple-mac-studio-m2-ultra-cpu-1tb-mqh63bz-a.jpg&height=424&width=424&quality=0.9",
+      "inStock": 21
+    },
+    
+    {
+      "id": 27,
+      "name": "MacBook Air M1",
+      "description": "O primeiro MacBook Air com o chip M1 da Apple. Rápido, poderoso e com bateria de longa duração.",
+      "price": 12000,
+      "imageUrl": "https://i.zst.com.br/thumbs/12/28/34/1369411026.jpg",
+      "inStock": 30
+    },
+    {
+      "id": 28,
+      "name": "MacBook Pro M1 Pro (14 polegadas)",
+      "description": "Equipado com o chip M1 Pro, oferece desempenho incrível e uma tela Liquid Retina XDR.",
+      "price": 22000,
+      "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v5530731895969087961/products/219767.09-apple-macbook-pro-14-10cpu-16gpu-16ram-1tb-prateado-esp-mkgt3bz-a.jpg&height=350&width=350&quality=1.0",
+      "inStock": 25
+    }
+  ],
+  "iphones": [
+    {
+      "id": 20,
+      "name": "iPhone 15",
+      "description": "O iPhone 15 traz uma série de inovações, incluindo o poderoso chip A17, um sistema de câmera avançado com Modo Noite aprimorado e 5G ultrarrápido. A bateria de longa duração e o design resistente o tornam perfeito para o dia a dia.",
+      "price": 10000,
+      "imageUrl": "https://images.kabum.com.br/produtos/fotos/511382/iphone-15-apple-128gb-tela-de-6-1-camera-dupla-de-48mp-rosa-mtp13br-a_1701269143_gg.jpg",
+      "inStock": 33
+    },
+    {
+      "id": 19,
+      "name": "iPhone 15 Pro",
+      "description": "Com o novo chip A17 Bionic, o iPhone 15 Pro oferece desempenho e eficiência incomparáveis. O sistema de câmeras Pro captura detalhes impressionantes em qualquer condição de luz.",
+      "price": 14000,
+      "imageUrl": "https://images.kabum.com.br/produtos/fotos/486266/iphone-15-pro-apple-128gb-titanio-azul-tela-de-6-1-camera-tripla-de-48mp-ios-mtv03be-a_1699363252_gg.jpg",
+      "inStock": 23
+    },
+    {
+      "id": 5,
+      "name": "iPhone 14 Pro",
+      "description": "O iPhone 14 Pro traz um sistema de câmera ainda mais poderoso, uma tela responsiva ProMotion de 120Hz e o chip A16 Bionic para um desempenho superior. É um salto imenso na duração da bateria e no design resistente.",
+      "price": 12000,
+      "imageUrl": "https://api.store.vivo.com.br/medias/515Wx515H-DGAP181R3000-1-.jpg?context=bWFzdGVyfGF6dXJlaW1hZ2VzfDE1NjM3fGltYWdlL2pwZWd8aDk0L2gwZS84OTg2ODA5MzY4NjA2LzUxNVd4NTE1SF9ER0FQMTgxUjMwMDBfICgxKS5qcGd8NzI3OWVkNTQwMjE0MTQ3ODI0YTBiOGVmMDY2Y2UzMGVjYmRhOTBiMjM4M2UwNDkxZWFhMzA0Yzg3NzZmZjczYw",
+      "inStock": 32
+    },
+    {
+      "id": 6,
+      "name": "iPhone 14",
+      "description": "Com um sistema de câmera avançado, o chip A16 Bionic e conectividade 5G, o iPhone 14 oferece um desempenho incrível e uma bateria de longa duração, perfeito para o seu dia a dia.",
+      "price": 9000,
+      "imageUrl": "https://imgs.casasbahia.com.br/1563067525/1xg.jpg",
+      "inStock": 25
+    },
+    {
+      "id": 7,
+      "name": "iPhone 13 Pro",
+      "description": "Novo sistema de câmera dramaticamente mais poderoso. Tela responsiva que surpreende a cada toque. O chip de smartphone mais rápido do mundo. Design com resistência fora de série. E um salto imenso na duração da bateria. É Pró e pronto.",
+      "price": 9176,
+      "imageUrl": "https://api.store.vivo.com.br/medias/DGAP15713000-1-.jpg?context=bWFzdGVyfGltYWdlc3wxNDI0MTR8aW1hZ2UvanBlZ3xoMzgvaDVjLzg4MjczODYxNjczMjYvREdBUDE1NzEzMDAwXygxKS5qcGd8MzBjYzM1MWY2OGEzYjNiNjQwYWM1ZWE5MWVmMmI1MzBjYmQ5MTVkMDQ5YWI0NWUyOWU3MzhjNTk3NzU0MjFmZg",
+      "inStock": 18
+    },
+    {
+      "id": 8,
+      "name": "iPhone 13",
+      "description": "Nosso sistema de câmera dupla mais avançado até hoje. Durabilidade na frente, no meio e de ponta a ponta. Um chip com velocidade impressionante. Tudo o que você faz fica mais rápido. Um aumento notável na duração da bateria. iPhone 13 Seu novo superpoder.",
+      "price": 7599,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-card-40-iphone13-202203?wid=600&hei=500&fmt=p-jpg&qlt=95&.v=1646335268199",
+      "inStock": 37
+    },
+    {
+      "id": 9,
+      "name": "iPhone 12",
+      "description": "Rápido que é uma beleza. Com 5G, sistema avançado de câmera dupla e o chip A14 Bionic, o iPhone 12 oferece desempenho impressionante e design durável.",
+      "price": 6000,
+      "imageUrl": "https://allied.vtexassets.com/arquivos/ids/234815-800-auto?v=637617825953800000&width=800&height=auto&aspect=true",
+      "inStock": 29
+    }
+  ],
+  "ipads": [
+    {
+      "id": 10,
+      "name": "iPad Pro M2",
+      "description": "O iPad Pro com o chip M2 é a potência que você precisa para criar, trabalhar e se divertir como nunca. A tela Liquid Retina XDR e o suporte ao Apple Pencil tornam a experiência imersiva e incrivelmente precisa.",
+      "price": 13000,
+      "imageUrl": "https://inbox.ph/wp-content/uploads/2022/11/iPad-Pro-M2-Main-1-12.9.jpg",
+      "inStock": 19
+    },
+    {
+      "id": 11,
+      "name": "iPad Air M1",
+      "description": "O iPad Air agora com o poderoso chip M1. Uma tela Liquid Retina de 10,9 polegadas, suporte ao Apple Pencil e Magic Keyboard. Portátil, poderoso e versátil.",
+      "price": 9599,
+      "imageUrl": "https://www.apple.com/newsroom/images/product/ipad/standard/Apple-iPad-Air-hero-color-lineup-220308_big.jpg.large.jpg",
+      "inStock": 25
+    },
+    {
+      "id": 12,
+      "name": "iPad Mini",
+      "description": "Pequeno no tamanho, grande nas possibilidades. O iPad Mini tem um design compacto e portátil, com desempenho poderoso e compatibilidade com o Apple Pencil.",
+      "price": 7199,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-ipad-mini-wifi-space-gray-gallery-2022_AV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1674165789121",
+      "inStock": 37
+    },
+    {
+      "id": 13,
+      "name": "iPad 10ª Geração",
+      "description": "O iPad da 10ª geração traz desempenho avançado com o chip A14 Bionic, uma tela Retina de 10,2 polegadas e compatibilidade com o Apple Pencil. Versátil e potente para qualquer tarefa.",
+      "price": 5599,
+      "imageUrl": "https://cdn.awsli.com.br/600x1000/2549/2549769/produto/236100244/153-e6erehfl11.jpg",
+      "inStock": 29
+    },
+    {
+      "id": 14,
+      "name": "iPad 9ª Geração",
+      "description": "Com o chip A13 Bionic, o iPad de 9ª geração oferece desempenho sólido para tarefas diárias, uma tela Retina de 10,2 polegadas e suporte ao Apple Pencil.",
+      "price": 4199,
+      "imageUrl": "https://www.iplace.com.br/ccstore/v1/images/?source=/file/v8664050781627046127/products/219325.01-apple-ipad-9-geracao-a13bionic-wifi-cellular-64gb-cinza-espacial-mk473bz-a.jpg&height=424&width=424&quality=0.9",
+      "inStock": 32
+    },
+    {
+      "id": 24,
+      "name": "Apple Pencil (2ª geração)",
+      "description": "O Apple Pencil (2ª geração) oferece precisão de pixel perfeito e sensibilidade à pressão e inclinação. Ideal para desenhar, escrever e anotar.",
+      "price": 1299,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MU8F2?wid=512&hei=512&fmt=jpeg&qlt=95&.v=1542406533038",
+      "inStock": 50
+    }
+  ],
+  "watches": [
+    {
+      "id": 15,
+      "name": "Apple Watch Series 8",
+      "description": "Com recursos avançados de saúde e fitness, o Apple Watch Series 8 oferece monitoramento de saúde, rastreamento de exercícios e notificações inteligentes. Seu design elegante é combinado com uma variedade de opções de personalização.",
+      "price": 3999,
+      "imageUrl": "https://csdam.net/digitalcontent/0/3630/36300344.jpg",
+      "inStock": 42
+    },
+    {
+      "id": 16,
+      "name": "Apple Watch SE",
+      "description": "O Apple Watch SE combina os recursos essenciais de saúde e fitness em um design acessível. Monitore sua saúde, acompanhe seus exercícios e receba notificações inteligentes diretamente no seu pulso.",
+      "price": 2399,
+      "imageUrl": "https://www.detonashop.com.br/media/catalog/product/cache/1/image/580x580/9df78eab33525d08d6e5fb8d27136e95/s/v/sv.png",
+      "inStock": 56
+    },
+    {
+      "id": 17,
+      "name": "Apple Watch Ultra",
+      "description": "O Apple Watch Ultra é projetado para aventuras extremas e condições rigorosas. Com um design robusto e recursos avançados, ele é perfeito para exploradores e atletas que precisam de desempenho e durabilidade excepcionais.",
+      "price": 6399,
+      "imageUrl": "https://asset.conrad.com/media10/isa/160267/c1/-/de/002973731PI00/image.jpg?x=400&y=400&format=jpg&ex=400&ey=400&align=center",
+      "inStock": 12
+    },
+    {
+      "id": 23,
+      "name": "Apple Magic Keyboard",
+      "description": "O Magic Keyboard proporciona uma experiência de digitação extraordinariamente confortável e precisa. É também sem fio e recarregável, com uma bateria de longa duração que alimenta seu teclado por cerca de um mês ou mais entre as cargas.",
+      "price": 1499,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MK2A3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1619134447000",
+      "inStock": 30
+    },
+    {
+      "id": 3,
+      "name": "Apple Magic Mouse",
+      "description": "O Magic Mouse é totalmente recarregável e tem um design otimizado que permite que ele deslize suavemente pela sua mesa. Com a superfície Multi-Touch, você pode realizar gestos simples para navegar pela web.",
+      "price": 799,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MK2E3?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1619134492000",
+      "inStock": 40
+    },
+    {
+      "id": 21,
+      "name": "AirPods Pro (2ª geração)",
+      "description": "Os AirPods Pro oferecem Cancelamento Ativo de Ruído para um som imersivo. Modo Ambiente para ouvir o mundo ao seu redor. Ajuste personalizável para conforto durante o dia todo.",
+      "price": 2999,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985",
+      "inStock": 60
+    },
+    {
+      "id": 22,
+      "name": "Apple AirTag",
+      "description": "O AirTag ajuda você a acompanhar e encontrar seus itens mais importantes. Prenda um ao chaveiro, jogue outro na mochila e pronto.",
+      "price": 299,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airtag-double-select-202104_FMT_WHH?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1617761672000",
+      "inStock": 100
+    }
+  ]
+}
