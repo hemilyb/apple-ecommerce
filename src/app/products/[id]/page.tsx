@@ -11,7 +11,7 @@ export default function Details({ params }: any) {
 
   const getProduct = async () => {
     try {
-      const response = await fetch(`http://localhost:3000/api/${params.id}`, {
+      const response = await fetch(`/api/${params.id}`, {
         method: "GET",
       });
   
